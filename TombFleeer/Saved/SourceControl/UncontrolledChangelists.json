@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/caseystuckey/Desktop/TimeToSlam/TombFleeer/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/caseystuckey/Desktop/TimeToSlam/TombFleeer/Content/TombFleeer/Levels/Main_Menu.umap",
 				"E:/UE Projects/TombFleeer/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/UE Projects/TombFleeer/Content/TombFleeer/Interactables/BP_Button.uasset",
 				"E:/UE Projects/TombFleeer/Content/TombFleeer/Interactables/BPI_Interact.uasset",
