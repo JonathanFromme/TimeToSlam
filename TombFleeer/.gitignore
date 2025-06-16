@@ -13,3 +13,9 @@ Saved
 *.xcodeproj
 *.xcworkspace
 /Content/Developers/Allie
+*.log
+*.bin
+*.ini
+AutoScreenshot.png
+CrashReportClient.ini
+PackageRestoreData.json
