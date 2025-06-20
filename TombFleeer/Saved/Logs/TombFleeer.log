@@ -2670,3 +2670,867 @@ FPackageName: Skipped package /Game/TombFleeer/Sounds/Foley/Push/MS_rotatingPlat
 [2025.06.20-01.21.31:383][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3226.592041
 [2025.06.20-01.21.32:384][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.20-01.21.32:384][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3227.259277, Update Interval: 341.560730
+[2025.06.20-01.26.59:649][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.20-01.26.59:654][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TombFleeer/Levels/Tomb' took 0.042
+[2025.06.20-01.26.59:654][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:659][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog.Control_Panel_Explanation_Dialog]
+[2025.06.20-01.26.59:660][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog]
+[2025.06.20-01.26.59:665][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog_Auto4
+[2025.06.20-01.26.59:665][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Control_Panel_Explanation_Dialog3134B70E446EC0753B14CC979FF4588E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:665][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:668][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog.Hand_To_Me_Dialog]
+[2025.06.20-01.26.59:668][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog]
+[2025.06.20-01.26.59:670][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog_Auto4
+[2025.06.20-01.26.59:670][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Hand_To_Me_Dialog_Auto4CFF850D44C1CC75E6DA954B0A3B10C41.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:670][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music] ([1] browsable assets)...
+[2025.06.20-01.26.59:733][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music.Tomb_Inside_Ambience_Music]
+[2025.06.20-01.26.59:733][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music]
+[2025.06.20-01.26.59:756][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music_Auto4
+[2025.06.20-01.26.59:756][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Inside_Ambience_Music_Auto43889BA214CFE0496ED1A66B27362D62A.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music_Auto4.uasset'
+[2025.06.20-01.26.59:756][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:758][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog.Scales_Judge_Dialog]
+[2025.06.20-01.26.59:759][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog]
+[2025.06.20-01.26.59:760][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog_Auto4
+[2025.06.20-01.26.59:760][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Scales_Judge_Dialog_Auto4EA1A2F9044EA05292BC517BD07612F7E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:761][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:765][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog.Last_Item_Placed_Dialog]
+[2025.06.20-01.26.59:765][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog]
+[2025.06.20-01.26.59:767][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog_Auto4
+[2025.06.20-01.26.59:767][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Last_Item_Placed_Dialog_Auto44FA398DC40B447E0B7B52F9A077AF81B.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:767][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:770][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog.Embalming_Profession_Dialog]
+[2025.06.20-01.26.59:770][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog]
+[2025.06.20-01.26.59:772][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog_Auto4
+[2025.06.20-01.26.59:772][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Embalming_Profession_Dialog_AutoBD3F32694D41F7A38674E9AB6B1B9AE3.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:772][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:781][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/JournalClosingDialog.JournalClosingDialog]
+[2025.06.20-01.26.59:781][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog]
+[2025.06.20-01.26.59:783][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog_Auto4
+[2025.06.20-01.26.59:783][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/JournalClosingDialog_Auto4202C6EEC419C2355211A7B99AA949B9E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog_Auto4.uasset'
+[2025.06.20-01.26.59:783][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:786][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog.Pressing_Buttons_Dialog]
+[2025.06.20-01.26.59:786][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog]
+[2025.06.20-01.26.59:788][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog_Auto4
+[2025.06.20-01.26.59:788][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Pressing_Buttons_Dialog_Auto47B5AF1D34E64FCFF66A24EBCA06ADD31.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:788][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog] ([1] browsable assets)...
+[2025.06.20-01.26.59:791][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog.Wrong_Lever_Dialog]
+[2025.06.20-01.26.59:791][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog]
+[2025.06.20-01.26.59:792][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog_Auto4
+[2025.06.20-01.26.59:792][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Wrong_Lever_Dialog_Auto42A63820D4F23D2B7AD7EF58A32EA018B.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog_Auto4.uasset'
+[2025.06.20-01.26.59:793][753]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TombFleeer/UI/W_Pause] ([2] browsable assets)...
+[2025.06.20-01.26.59:796][753]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TombFleeer/UI/W_Pause.W_Pause]
+[2025.06.20-01.26.59:796][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/UI/W_Pause]
+[2025.06.20-01.26.59:796][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/UI/W_Pause" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/UI/W_Pause_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.06.20-01.26.59:808][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/UI/W_Pause_Auto4
+[2025.06.20-01.26.59:808][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/W_Pause_Auto49C72AA8C4E0D93585852CABE064452F8.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/UI/W_Pause_Auto4.uasset'
+[2025.06.20-01.26.59:809][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/Push/SW_gate] ([1] browsable assets)...
+[2025.06.20-01.26.59:810][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/Push/SW_gate.SW_gate]
+[2025.06.20-01.26.59:810][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/Push/SW_gate]
+[2025.06.20-01.26.59:812][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/Push/SW_gate_Auto4
+[2025.06.20-01.26.59:813][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/SW_gate_Auto498E4DEC947C123811F8ABB837DB33714.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/Push/SW_gate_Auto4.uasset'
+[2025.06.20-01.26.59:813][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1] ([1] browsable assets)...
+[2025.06.20-01.26.59:815][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1.gjfx_page_turn_1]
+[2025.06.20-01.26.59:815][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1]
+[2025.06.20-01.26.59:817][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1_Auto4
+[2025.06.20-01.26.59:817][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_1_Auto42B3DB2654354CAF44F42B2B90A44F3E1.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1_Auto4.uasset'
+[2025.06.20-01.26.59:818][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2] ([1] browsable assets)...
+[2025.06.20-01.26.59:819][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2.gjfx_page_turn_2]
+[2025.06.20-01.26.59:819][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2]
+[2025.06.20-01.26.59:823][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2_Auto4
+[2025.06.20-01.26.59:823][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_2_Auto4EC9427254E5567D819129CAF619203B0.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2_Auto4.uasset'
+[2025.06.20-01.26.59:824][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4] ([1] browsable assets)...
+[2025.06.20-01.26.59:825][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4.gjfx_stone_drop_4]
+[2025.06.20-01.26.59:825][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4]
+[2025.06.20-01.26.59:827][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4_Auto4
+[2025.06.20-01.26.59:827][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_4_Auto469C7BAB84F1CAE4D6E84D099037FCFE6.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4_Auto4.uasset'
+[2025.06.20-01.26.59:827][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5] ([1] browsable assets)...
+[2025.06.20-01.26.59:829][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5.gjfx_stone_drop_5]
+[2025.06.20-01.26.59:829][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5]
+[2025.06.20-01.26.59:830][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5_Auto4
+[2025.06.20-01.26.59:830][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_5_Auto432A0967A45415E563F4E638E0BEB2E34.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5_Auto4.uasset'
+[2025.06.20-01.26.59:831][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6] ([1] browsable assets)...
+[2025.06.20-01.26.59:832][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6.gjfx_stone_drop_6]
+[2025.06.20-01.26.59:832][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6]
+[2025.06.20-01.26.59:833][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6_Auto4
+[2025.06.20-01.26.59:833][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_6_Auto4737648324C789564E4327ABA131E5207.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6_Auto4.uasset'
+[2025.06.20-01.26.59:834][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen] ([1] browsable assets)...
+[2025.06.20-01.26.59:858][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen.Tomb_Service_Ending_Screen]
+[2025.06.20-01.26.59:858][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen]
+[2025.06.20-01.26.59:917][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen_Auto4
+[2025.06.20-01.26.59:917][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Ending_Screen_Auto43D3E27A841F5486B44498494294323A2.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen_Auto4.uasset'
+[2025.06.20-01.26.59:917][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen] ([1] browsable assets)...
+[2025.06.20-01.26.59:948][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen.Tomb_Service_Title_Screen]
+[2025.06.20-01.26.59:948][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen]
+[2025.06.20-01.27.00:003][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen_Auto4
+[2025.06.20-01.27.00:003][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Title_Screen_Auto44FC4180C428CC421DB1D3480BB1C58B6.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen_Auto4.uasset'
+[2025.06.20-01.27.00:003][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2] ([1] browsable assets)...
+[2025.06.20-01.27.00:008][753]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2.gjfx_push_2]
+[2025.06.20-01.27.00:008][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2]
+[2025.06.20-01.27.00:010][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2_Auto4
+[2025.06.20-01.27.00:010][753]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_push_2_Auto41150E1724E964516FEF341B418D8EE13.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2_Auto4.uasset'
+[2025.06.20-01.27.00:011][753]LogFileHelpers: Auto-saving content packages took 0.357
+[2025.06.20-01.28.08:748][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3623.955566
+[2025.06.20-01.28.09:750][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-01.28.09:750][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3624.623535, Update Interval: 347.993408
+[2025.06.20-01.29.30:213][205]LogDerivedDataCache: C:/Users/noj15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.20-01.30.03:860][306]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (THX Spatial - Synapse), InstanceID=1
+[2025.06.20-01.30.04:135][306]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.30.04:135][306]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.30.04:462][307]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.30.04:465][307]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{a231c591-54cb-48e2-8b14-4cc8c600443d}, Name=Speakers (THX Spatial - Synapse)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.79
+[2025.06.20-01.30.04:465][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.06.20-01.30.04:466][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.31.13:881][516]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2025.06.20-01.31.14:138][516]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.31.14:138][516]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.31.14:470][517]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.31.14:472][517]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bc97b5ab-f3bb-4d94-b87c-e10c9b9de89f}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=54.81
+[2025.06.20-01.31.14:472][517]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.31.14:474][517]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.19:726][713]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (THX Spatial - Synapse), InstanceID=1
+[2025.06.20-01.32.19:831][713]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.19:831][713]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.20:164][714]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.20:166][714]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{a231c591-54cb-48e2-8b14-4cc8c600443d}, Name=Speakers (THX Spatial - Synapse)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=31.03
+[2025.06.20-01.32.20:166][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.06.20-01.32.20:168][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.23:142][723]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2025.06.20-01.32.23:168][723]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.23:168][723]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.23:502][724]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.23:502][724]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bc97b5ab-f3bb-4d94-b87c-e10c9b9de89f}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.70
+[2025.06.20-01.32.23:503][724]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.23:505][724]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.24:423][727]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Steam Streaming Speakers), InstanceID=1
+[2025.06.20-01.32.24:501][727]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.24:501][727]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.24:835][728]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.24:838][728]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{083450d1-4b17-4594-8c9b-669901c82953}, Name=Speakers (Steam Streaming Speakers)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.32
+[2025.06.20-01.32.24:838][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.24:840][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.25:942][732]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SB272 (NVIDIA High Definition Audio), InstanceID=1
+[2025.06.20-01.32.26:170][732]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.26:170][732]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.26:503][733]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.26:505][733]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{18be3b77-0097-408c-8ff5-3a220623d689}, Name=SB272 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.67
+[2025.06.20-01.32.26:505][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.26:506][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.27:438][736]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek High Definition Audio), InstanceID=1
+[2025.06.20-01.32.27:502][736]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.27:502][736]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.27:836][737]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.27:837][737]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{26540848-c098-43a6-97c2-abfb56424d48}, Name=Realtek Digital Output (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.08
+[2025.06.20-01.32.27:838][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.27:839][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.28:742][740]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SB2 (NVIDIA High Definition Audio), InstanceID=1
+[2025.06.20-01.32.28:835][740]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.28:835][740]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.29:170][741]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.29:172][741]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6b410adb-f500-430c-80a1-785450843af6}, Name=SB2 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.61
+[2025.06.20-01.32.29:172][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.29:174][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.30:111][744]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (THX Spatial - Synapse), InstanceID=1
+[2025.06.20-01.32.30:170][744]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.30:171][744]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.30:504][745]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.30:506][745]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{a231c591-54cb-48e2-8b14-4cc8c600443d}, Name=Speakers (THX Spatial - Synapse)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=50.36
+[2025.06.20-01.32.30:506][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2025.06.20-01.32.30:507][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.32.31:832][749]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek High Definition Audio), InstanceID=1
+[2025.06.20-01.32.31:837][749]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.31:837][749]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28448
+[2025.06.20-01.32.32:170][750]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.06.20-01.32.32:172][750]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{bc97b5ab-f3bb-4d94-b87c-e10c9b9de89f}, Name=Speakers (Realtek High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.55
+[2025.06.20-01.32.32:172][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.20-01.32.32:174][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.20-01.34.49:256][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4024.463135
+[2025.06.20-01.34.50:259][164]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-01.34.50:259][164]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4025.130615, Update Interval: 323.749512
+[2025.06.20-01.41.00:483][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4395.690430
+[2025.06.20-01.41.01:484][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-01.41.01:484][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4396.357910, Update Interval: 351.877197
+[2025.06.20-01.47.46:061][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4801.269531
+[2025.06.20-01.47.47:064][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-01.47.47:064][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4801.937500, Update Interval: 351.738037
+[2025.06.20-01.54.30:302][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5205.518555
+[2025.06.20-01.54.31:304][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-01.54.31:304][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5206.186035, Update Interval: 320.253906
+[2025.06.20-02.00.29:152][778]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5564.371094
+[2025.06.20-02.00.30:154][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.00.30:154][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5565.038574, Update Interval: 328.526855
+[2025.06.20-02.06.51:732][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5946.955566
+[2025.06.20-02.06.52:733][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.06.52:734][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5947.623535, Update Interval: 300.626251
+[2025.06.20-02.12.34:958][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6290.185059
+[2025.06.20-02.12.35:958][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.12.35:958][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6290.851562, Update Interval: 325.681335
+[2025.06.20-02.18.49:029][ 75]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6664.263184
+[2025.06.20-02.18.50:031][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.18.50:031][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6664.930664, Update Interval: 313.423859
+[2025.06.20-02.24.55:334][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7030.569824
+[2025.06.20-02.24.56:335][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.24.56:335][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7031.237305, Update Interval: 314.550018
+[2025.06.20-02.26.15:419][413]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 01e...069
+[2025.06.20-02.26.15:419][413]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.547e+07
+[2025.06.20-02.26.16:421][416]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 01e...069 Access[Expires: 2025.06.20-04.26.15 Remaining: 7200.51] Refresh[Expires: 2025-12-16T02:38:15.674Z Remaining: 15466320.67] State: Valid
+[2025.06.20-02.29.30:212][997]LogDerivedDataCache: C:/Users/noj15/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.20-02.30.54:979][251]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7390.209961
+[2025.06.20-02.30.55:979][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.30.55:979][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7390.876953, Update Interval: 331.211273
+[2025.06.20-02.37.21:566][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7776.805664
+[2025.06.20-02.37.22:567][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.37.22:567][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7777.472656, Update Interval: 306.432678
+[2025.06.20-02.37.39:533][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TombFleeer/Assets/Moveable/BP_ReactObject.BP_ReactObject
+[2025.06.20-02.37.39:539][917]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.06.20-02.37.39:723][917]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.20-02.37.42:553][ 99]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.37.42:553][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.37.42:750][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2025.06.20-02.38.10:418][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.06.20-02.38.10:450][729]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.06.20-02.38.10:497][730]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.06.20-02.38.10:535][731]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.06.20-02.38.10:569][732]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.06.20-02.38.10:605][733]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.06.20-02.38.10:641][734]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.06.20-02.38.10:676][735]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.06.20-02.38.10:717][736]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.06.20-02.38.10:748][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.06.20-02.38.10:799][738]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.06.20-02.38.13:530][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TombFleeer/Assets/Moveable/BP_RO_Gate.BP_RO_Gate
+[2025.06.20-02.38.13:530][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.06.20-02.41.43:765][590]LogEditorTransaction: Undo Delete current selection
+[2025.06.20-02.42.17:017][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.06.20-02.42.17:589][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-02.42.17:646][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TombFleeer/Assets/Moveable/BP_RO_Gate] ([2] browsable assets)...
+[2025.06.20-02.42.17:669][811]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TombFleeer/Assets/Moveable/BP_RO_Gate.BP_RO_Gate]
+[2025.06.20-02.42.17:669][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Assets/Moveable/BP_RO_Gate]
+[2025.06.20-02.42.17:669][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Assets/Moveable/BP_RO_Gate" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Assets/Moveable/BP_RO_Gate.uasset" SILENT=true
+[2025.06.20-02.42.17:687][811]LogSavePackage: Moving output files for package: /Game/TombFleeer/Assets/Moveable/BP_RO_Gate
+[2025.06.20-02.42.17:687][811]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/BP_RO_GateE588B5EB400C353E3F50649A0DA940AF.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Assets/Moveable/BP_RO_Gate.uasset'
+[2025.06.20-02.42.17:694][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.609 ms (total: 2.11 sec)
+[2025.06.20-02.42.17:756][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-02.42.17:756][811]LogContentValidation: Enabled validators:
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-02.42.17:756][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-02.42.17:757][811]AssetCheck: /Game/TombFleeer/Assets/Moveable/BP_RO_Gate Validating asset
+[2025.06.20-02.42.32:793][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-02.42.32:855][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Levels/Tomb" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Levels/Tomb.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.20-02.42.32:908][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.20-02.42.33:117][ 48]LogSavePackage: Moving output files for package: /Game/TombFleeer/Levels/Tomb
+[2025.06.20-02.42.33:117][ 48]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb5385DDB643651B135126CBA515746A63.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Levels/Tomb.umap'
+[2025.06.20-02.42.33:139][ 48]LogFileHelpers: Saving map 'Tomb' took 0.284
+[2025.06.20-02.42.33:146][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 353.665 ms (total: 2.46 sec)
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: Enabled validators:
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-02.42.33:206][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-02.42.33:207][ 48]AssetCheck: /Game/TombFleeer/Levels/Tomb Validating asset
+[2025.06.20-02.42.48:434][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-02.42.48:491][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Levels/Tomb" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Levels/Tomb.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.06.20-02.42.48:541][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.20-02.42.48:744][405]LogSavePackage: Moving output files for package: /Game/TombFleeer/Levels/Tomb
+[2025.06.20-02.42.48:744][405]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/TombA1BECE7346113FD6C4C5E9A7AB4C472E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Levels/Tomb.umap'
+[2025.06.20-02.42.48:763][405]LogFileHelpers: Saving map 'Tomb' took 0.271
+[2025.06.20-02.42.48:769][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.153 ms (total: 2.79 sec)
+[2025.06.20-02.42.48:823][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.20-02.42.48:823][405]LogContentValidation: Enabled validators:
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-02.42.48:823][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-02.42.48:824][405]AssetCheck: /Game/TombFleeer/Levels/Tomb Validating asset
+[2025.06.20-02.43.11:958][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8127.230469
+[2025.06.20-02.43.12:035][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.43.12:035][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8127.293945, Update Interval: 308.893707
+[2025.06.20-02.43.25:709][230]LogPlayLevel: [PlayLevel] Compiling W_Pause before play...
+[2025.06.20-02.43.25:880][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.06.20-02.43.25:883][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 175 ms (1 blueprints)
+[2025.06.20-02.43.25:883][230]LogPlayLevel: Creating play world package: /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.43.26:056][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172994s)
+[2025.06.20-02.43.26:056][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombFleeer/Levels/Tomb.Tomb to /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb (0.173073s)
+[2025.06.20-02.43.26:074][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.20-02.43.26:075][230]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb
+[2025.06.20-02.43.26:082][230]LogPlayLevel: PIE: World Init took: (0.007171s)
+[2025.06.20-02.43.26:083][230]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-02.43.26:083][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.20-02.43.26:083][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-02.43.26:083][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-02.43.26:083][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-02.43.26:083][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-02.43.26:086][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-02.43.26:120][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.06.20-02.43.26:121][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-02.43.26:121][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-02.43.26:121][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-02.43.26:123][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.06.20-02.43.26:123][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.06.20-02.43.26:125][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.06.20-02.43.26:125][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.06.20-02.43.26:125][230]LogInit: FAudioDevice initialized with ID 9.
+[2025.06.20-02.43.26:125][230]LogAudio: Display: Audio Device (ID: 9) registered with world 'Tomb'.
+[2025.06.20-02.43.26:125][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.06.20-02.43.26:132][230]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.20-02.43.26:159][230]LogWorld: Bringing World /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb up for play (max tick rate 0) at 2025.06.19-22.43.26
+[2025.06.20-02.43.26:159][230]LogWorld: Bringing up level for play took: 0.026835
+[2025.06.20-02.43.26:162][230]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.06.20-02.43.26:174][230]PIE: Server logged in
+[2025.06.20-02.43.26:175][230]PIE: Play in editor total start time 0.474 seconds.
+[2025.06.20-02.43.29:307][447]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Got Organ Jar!
+[2025.06.20-02.43.32:105][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.43.32:105][638]LogWorld: BeginTearingDown for /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.43.32:106][638]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.43.32:113][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.43.32:126][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-02.43.32:132][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.43.32:149][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.43.32:151][638]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.06.20-02.43.32:151][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.06.20-02.43.32:153][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.06.20-02.43.32:171][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.06.20-02.43.32:254][639]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.06.20-02.43.48:826][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-02.43.48:853][736]LogPlayLevel: Creating play world package: /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.43.49:033][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180307s)
+[2025.06.20-02.43.49:033][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombFleeer/Levels/Tomb.Tomb to /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb (0.180344s)
+[2025.06.20-02.43.49:052][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.20-02.43.49:059][736]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb
+[2025.06.20-02.43.49:061][736]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2025.06.20-02.43.49:062][736]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-02.43.49:062][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.20-02.43.49:062][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-02.43.49:062][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-02.43.49:062][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-02.43.49:062][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-02.43.49:064][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-02.43.49:095][736]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.06.20-02.43.49:096][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-02.43.49:096][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-02.43.49:096][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-02.43.49:100][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.06.20-02.43.49:100][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.06.20-02.43.49:102][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.06.20-02.43.49:102][736]LogInit: FAudioDevice initialized with ID 10.
+[2025.06.20-02.43.49:102][736]LogAudio: Display: Audio Device (ID: 10) registered with world 'Tomb'.
+[2025.06.20-02.43.49:102][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.06.20-02.43.49:102][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.20-02.43.49:105][736]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.20-02.43.49:126][736]LogWorld: Bringing World /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb up for play (max tick rate 0) at 2025.06.19-22.43.49
+[2025.06.20-02.43.49:127][736]LogWorld: Bringing up level for play took: 0.021546
+[2025.06.20-02.43.49:135][736]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.06.20-02.43.49:139][736]PIE: Server logged in
+[2025.06.20-02.43.49:140][736]PIE: Play in editor total start time 0.317 seconds.
+[2025.06.20-02.43.52:937][ 31]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] Got Organ Jar!
+[2025.06.20-02.43.54:455][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.43.54:455][146]LogWorld: BeginTearingDown for /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.43.54:456][146]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.43.54:464][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.43.54:476][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-02.43.54:482][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.43.54:503][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.20-02.43.54:503][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.20-02.43.54:503][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.20-02.43.54:505][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.20-02.43.54:508][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.43.54:514][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.06.20-02.43.54:593][147]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.06.20-02.43.56:183][246]Cmd: TRANSACTION UNDO
+[2025.06.20-02.43.56:183][246]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.20-02.44.04:621][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-02.44.04:621][789]LogPlayLevel: Creating play world package: /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.44.04:787][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166444s)
+[2025.06.20-02.44.04:787][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombFleeer/Levels/Tomb.Tomb to /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb (0.166475s)
+[2025.06.20-02.44.04:813][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.20-02.44.04:816][789]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb
+[2025.06.20-02.44.04:818][789]LogPlayLevel: PIE: World Init took: (0.001927s)
+[2025.06.20-02.44.04:818][789]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.06.20-02.44.04:818][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-02.44.04:818][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-02.44.04:818][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-02.44.04:818][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-02.44.04:818][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.20-02.44.04:819][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-02.44.04:819][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.20-02.44.04:819][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-02.44.04:819][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-02.44.04:819][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-02.44.04:819][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-02.44.04:820][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-02.44.04:852][789]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.06.20-02.44.04:852][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-02.44.04:852][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-02.44.04:852][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-02.44.04:852][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.06.20-02.44.04:852][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.06.20-02.44.04:855][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.06.20-02.44.04:855][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.06.20-02.44.04:855][789]LogInit: FAudioDevice initialized with ID 11.
+[2025.06.20-02.44.04:855][789]LogAudio: Display: Audio Device (ID: 11) registered with world 'Tomb'.
+[2025.06.20-02.44.04:855][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.20-02.44.04:857][789]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.20-02.44.04:877][789]LogWorld: Bringing World /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb up for play (max tick rate 0) at 2025.06.19-22.44.04
+[2025.06.20-02.44.04:878][789]LogWorld: Bringing up level for play took: 0.020405
+[2025.06.20-02.44.04:880][789]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2025.06.20-02.44.04:884][789]PIE: Server logged in
+[2025.06.20-02.44.04:885][789]PIE: Play in editor total start time 0.267 seconds.
+[2025.06.20-02.44.09:535][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.44.09:535][122]LogWorld: BeginTearingDown for /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.44.09:535][122]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.44.09:542][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.44.09:547][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-02.44.09:553][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.44.09:574][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.44.09:574][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.20-02.44.09:574][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.20-02.44.09:576][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.20-02.44.09:586][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.06.20-02.44.09:662][123]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.06.20-02.44.12:807][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-02.44.12:833][312]LogPlayLevel: Creating play world package: /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.44.12:995][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160921s)
+[2025.06.20-02.44.12:995][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombFleeer/Levels/Tomb.Tomb to /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb (0.160968s)
+[2025.06.20-02.44.13:013][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.06.20-02.44.13:015][312]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb
+[2025.06.20-02.44.13:016][312]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2025.06.20-02.44.13:017][312]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-02.44.13:017][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.20-02.44.13:017][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-02.44.13:017][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-02.44.13:017][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-02.44.13:017][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-02.44.13:019][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-02.44.13:054][312]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.06.20-02.44.13:054][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-02.44.13:054][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-02.44.13:054][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-02.44.13:055][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.06.20-02.44.13:055][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.06.20-02.44.13:057][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.06.20-02.44.13:057][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.06.20-02.44.13:057][312]LogInit: FAudioDevice initialized with ID 12.
+[2025.06.20-02.44.13:057][312]LogAudio: Display: Audio Device (ID: 12) registered with world 'Tomb'.
+[2025.06.20-02.44.13:057][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.20-02.44.13:060][312]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.20-02.44.13:079][312]LogWorld: Bringing World /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb up for play (max tick rate 0) at 2025.06.19-22.44.13
+[2025.06.20-02.44.13:080][312]LogWorld: Bringing up level for play took: 0.019790
+[2025.06.20-02.44.13:082][312]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.06.20-02.44.13:092][312]PIE: Server logged in
+[2025.06.20-02.44.13:093][312]PIE: Play in editor total start time 0.289 seconds.
+[2025.06.20-02.44.17:534][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.44.17:534][651]LogWorld: BeginTearingDown for /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.44.17:535][651]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.44.17:542][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.44.17:547][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-02.44.17:553][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.44.17:572][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.44.17:574][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.20-02.44.17:574][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.20-02.44.17:575][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.20-02.44.17:586][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.06.20-02.44.17:667][652]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.06.20-02.44.20:937][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.20-02.44.20:937][861]LogPlayLevel: Creating play world package: /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.44.21:098][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161051s)
+[2025.06.20-02.44.21:098][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TombFleeer/Levels/Tomb.Tomb to /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb (0.161083s)
+[2025.06.20-02.44.21:117][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.20-02.44.21:118][861]LogChaosDD: Creating Chaos Debug Draw Scene for world Tomb
+[2025.06.20-02.44.21:120][861]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2025.06.20-02.44.21:121][861]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.20-02.44.21:121][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.06.20-02.44.21:121][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.20-02.44.21:121][861]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.20-02.44.21:121][861]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.20-02.44.21:121][861]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.20-02.44.21:123][861]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.20-02.44.21:157][861]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2025.06.20-02.44.21:157][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.20-02.44.21:157][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.20-02.44.21:157][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.20-02.44.21:157][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.06.20-02.44.21:157][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.06.20-02.44.21:160][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.06.20-02.44.21:160][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.06.20-02.44.21:160][861]LogInit: FAudioDevice initialized with ID 13.
+[2025.06.20-02.44.21:160][861]LogAudio: Display: Audio Device (ID: 13) registered with world 'Tomb'.
+[2025.06.20-02.44.21:160][861]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.20-02.44.21:162][861]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.06.20-02.44.21:182][861]LogWorld: Bringing World /Game/TombFleeer/Levels/UEDPIE_0_Tomb.Tomb up for play (max tick rate 0) at 2025.06.19-22.44.21
+[2025.06.20-02.44.21:183][861]LogWorld: Bringing up level for play took: 0.020587
+[2025.06.20-02.44.21:185][861]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.06.20-02.44.21:190][861]PIE: Server logged in
+[2025.06.20-02.44.21:190][861]PIE: Play in editor total start time 0.255 seconds.
+[2025.06.20-02.45.02:824][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.45.02:824][ 73]LogWorld: BeginTearingDown for /Game/TombFleeer/Levels/UEDPIE_0_Tomb
+[2025.06.20-02.45.02:825][ 73]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-02.45.02:830][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.45.02:836][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.20-02.45.02:841][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-02.45.02:860][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.20-02.45.02:862][ 73]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.06.20-02.45.02:862][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.20-02.45.02:865][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.06.20-02.45.02:876][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.20-02.45.02:953][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.06.20-02.49.14:973][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8490.221680
+[2025.06.20-02.49.15:972][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.49.15:972][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8490.888672, Update Interval: 353.142487
+[2025.06.20-02.53.52:388][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.06.20-02.53.52:392][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Levels/Tomb" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Levels/Tomb_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.06.20-02.53.52:598][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Levels/Tomb_Auto5
+[2025.06.20-02.53.52:598][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Auto54C80610B4CA62FEA8A58179CB588E10D.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Levels/Tomb_Auto5.umap'
+[2025.06.20-02.53.52:599][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TombFleeer/Levels/Tomb' took 0.233
+[2025.06.20-02.53.52:599][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.233
+[2025.06.20-02.53.52:600][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:600][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog]
+[2025.06.20-02.53.52:603][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog_Auto5
+[2025.06.20-02.53.52:603][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Control_Panel_Explanation_DialogF958EC1041AA8E0DDE7350B61799033D.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:603][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:603][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog]
+[2025.06.20-02.53.52:604][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog_Auto5
+[2025.06.20-02.53.52:604][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Hand_To_Me_Dialog_Auto50AB1348A4A74852A4A39D3A6CB1BF25E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:605][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music] ([1] browsable assets)...
+[2025.06.20-02.53.52:605][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music]
+[2025.06.20-02.53.52:664][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music_Auto5
+[2025.06.20-02.53.52:664][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Inside_Ambience_Music_Auto5296C42914D64EA75A237F4BA297FB11A.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music_Auto5.uasset'
+[2025.06.20-02.53.52:664][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:664][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog]
+[2025.06.20-02.53.52:665][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog_Auto5
+[2025.06.20-02.53.52:665][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Scales_Judge_Dialog_Auto5D222A0014555AE2C5A6500AF186E79FD.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:666][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:666][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog]
+[2025.06.20-02.53.52:668][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog_Auto5
+[2025.06.20-02.53.52:668][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Last_Item_Placed_Dialog_Auto5C64B0F9A4E11D9A9925FCA9242BF7029.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:669][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:669][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog]
+[2025.06.20-02.53.52:670][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog_Auto5
+[2025.06.20-02.53.52:670][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Embalming_Profession_Dialog_AutoE0BBB930468F56F694EA748EDA0A76E1.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:670][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:670][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog]
+[2025.06.20-02.53.52:678][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog_Auto5
+[2025.06.20-02.53.52:678][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/JournalClosingDialog_Auto552AD18D34E003701090D7F965229F092.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog_Auto5.uasset'
+[2025.06.20-02.53.52:678][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:678][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog]
+[2025.06.20-02.53.52:679][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog_Auto5
+[2025.06.20-02.53.52:679][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Pressing_Buttons_Dialog_Auto55DC5369247068207C1849FA45DF75927.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:680][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog] ([1] browsable assets)...
+[2025.06.20-02.53.52:680][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog]
+[2025.06.20-02.53.52:681][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog_Auto5
+[2025.06.20-02.53.52:681][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Wrong_Lever_Dialog_Auto5AE7A5CA044D830AE26E465B56F291293.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog_Auto5.uasset'
+[2025.06.20-02.53.52:682][417]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TombFleeer/UI/W_Pause] ([2] browsable assets)...
+[2025.06.20-02.53.52:694][417]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TombFleeer/UI/W_Pause.W_Pause]
+[2025.06.20-02.53.52:694][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/UI/W_Pause]
+[2025.06.20-02.53.52:694][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/UI/W_Pause" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/UI/W_Pause_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.06.20-02.53.52:708][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/UI/W_Pause_Auto5
+[2025.06.20-02.53.52:708][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/W_Pause_Auto581B3272A46CDD8957EC4CE9C4DBEB118.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/UI/W_Pause_Auto5.uasset'
+[2025.06.20-02.53.52:709][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/Push/SW_gate] ([1] browsable assets)...
+[2025.06.20-02.53.52:709][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/Push/SW_gate]
+[2025.06.20-02.53.52:710][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/Push/SW_gate_Auto5
+[2025.06.20-02.53.52:710][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/SW_gate_Auto5CEE73F68404BD59F4E8548B67CF10ECA.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/Push/SW_gate_Auto5.uasset'
+[2025.06.20-02.53.52:710][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1] ([1] browsable assets)...
+[2025.06.20-02.53.52:710][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1]
+[2025.06.20-02.53.52:713][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1_Auto5
+[2025.06.20-02.53.52:714][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_1_Auto528F3B451433550927A9ADBAE6CD4190E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1_Auto5.uasset'
+[2025.06.20-02.53.52:714][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2] ([1] browsable assets)...
+[2025.06.20-02.53.52:714][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2]
+[2025.06.20-02.53.52:717][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2_Auto5
+[2025.06.20-02.53.52:717][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_2_Auto54A6F46894067F78908EB42BF7D7A25A6.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2_Auto5.uasset'
+[2025.06.20-02.53.52:718][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4] ([1] browsable assets)...
+[2025.06.20-02.53.52:718][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4]
+[2025.06.20-02.53.52:719][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4_Auto5
+[2025.06.20-02.53.52:719][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_4_Auto55CBA567346CF3A189A27FB90EDB59069.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4_Auto5.uasset'
+[2025.06.20-02.53.52:719][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5] ([1] browsable assets)...
+[2025.06.20-02.53.52:719][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5]
+[2025.06.20-02.53.52:720][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5_Auto5
+[2025.06.20-02.53.52:720][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_5_Auto59DBA838E487BCA1529CF2C84922B7B6F.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5_Auto5.uasset'
+[2025.06.20-02.53.52:721][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6] ([1] browsable assets)...
+[2025.06.20-02.53.52:721][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6]
+[2025.06.20-02.53.52:722][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6_Auto5
+[2025.06.20-02.53.52:722][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_6_Auto54162E9364541C07B7ECA039CF7C91635.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6_Auto5.uasset'
+[2025.06.20-02.53.52:723][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen] ([1] browsable assets)...
+[2025.06.20-02.53.52:723][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen]
+[2025.06.20-02.53.52:958][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen_Auto5
+[2025.06.20-02.53.52:958][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Ending_Screen_Auto5F8CD703C46F132C9544204AE6DB2ED79.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen_Auto5.uasset'
+[2025.06.20-02.53.52:959][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen] ([1] browsable assets)...
+[2025.06.20-02.53.52:959][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen]
+[2025.06.20-02.53.53:999][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen_Auto5
+[2025.06.20-02.53.53:999][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Title_Screen_Auto5127877674CB936B9EB583DABC8BF3A02.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen_Auto5.uasset'
+[2025.06.20-02.53.54:000][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2] ([1] browsable assets)...
+[2025.06.20-02.53.54:000][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2]
+[2025.06.20-02.53.54:001][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2_Auto5
+[2025.06.20-02.53.54:001][417]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_push_2_Auto5D87670C841CD8CB55C208788CE77CDB5.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Autosaves/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2_Auto5.uasset'
+[2025.06.20-02.53.54:001][417]LogFileHelpers: Auto-saving content packages took 1.403
+[2025.06.20-02.56.01:370][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8896.530273
+[2025.06.20-02.56.02:369][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-02.56.02:369][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8897.196289, Update Interval: 316.088135
+[2025.06.20-03.02.16:393][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9271.500977
+[2025.06.20-03.02.17:393][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.20-03.02.17:393][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9272.168945, Update Interval: 317.435822
+[2025.06.20-03.03.08:540][ 84]LogSlate: Window 'BP_RO_Gate' being destroyed
+[2025.06.20-03.03.08:548][ 84]LogSlate: Window 'BP_RO_Gate' being destroyed
+[2025.06.20-03.03.08:948][ 84]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.08:948][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.08:959][ 84]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.08:960][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.09:076][ 84]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.09:076][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.09:143][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.20-03.03.11:710][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.06.20-03.03.38:792][319]LogSlate: Window 'Save Content' being destroyed
+[2025.06.20-03.03.38:806][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.20-03.03.38:881][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:881][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog]
+[2025.06.20-03.03.38:889][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog
+[2025.06.20-03.03.38:889][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Control_Panel_Explanation_Dialog66C05BCE49CE58E65CF49882D6D515A8.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog.uasset'
+[2025.06.20-03.03.38:890][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:890][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog]
+[2025.06.20-03.03.38:895][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog
+[2025.06.20-03.03.38:895][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Embalming_Profession_DialogD7F945D141DFCA390926D4B563D7CA5C.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog.uasset'
+[2025.06.20-03.03.38:896][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1] ([1] browsable assets)...
+[2025.06.20-03.03.38:896][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1]
+[2025.06.20-03.03.38:896][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1.uasset" SILENT=true
+[2025.06.20-03.03.38:899][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1
+[2025.06.20-03.03.38:899][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_1D6DC08524851A050A6FC6F86DECFF8B1.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1.uasset'
+[2025.06.20-03.03.38:900][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2] ([1] browsable assets)...
+[2025.06.20-03.03.38:900][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2]
+[2025.06.20-03.03.38:900][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2.uasset" SILENT=true
+[2025.06.20-03.03.38:904][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2
+[2025.06.20-03.03.38:904][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_page_turn_2600965E940F7979AD5D1ACB81912875F.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2.uasset'
+[2025.06.20-03.03.38:904][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2] ([1] browsable assets)...
+[2025.06.20-03.03.38:904][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2]
+[2025.06.20-03.03.38:904][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/Push/gjfx_push_2.uasset" SILENT=true
+[2025.06.20-03.03.38:909][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2
+[2025.06.20-03.03.38:909][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_push_25C45BDC34AB7E4510A1BC98DECDCF776.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/Push/gjfx_push_2.uasset'
+[2025.06.20-03.03.38:909][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4] ([1] browsable assets)...
+[2025.06.20-03.03.38:909][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4]
+[2025.06.20-03.03.38:911][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4
+[2025.06.20-03.03.38:911][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_4934EBC4A43FABDE25B048F8AA1131584.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4.uasset'
+[2025.06.20-03.03.38:912][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5] ([1] browsable assets)...
+[2025.06.20-03.03.38:912][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5]
+[2025.06.20-03.03.38:915][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5
+[2025.06.20-03.03.38:915][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_54D8E2E194EAA10C714D4EFA0E15A0552.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5.uasset'
+[2025.06.20-03.03.38:916][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6] ([1] browsable assets)...
+[2025.06.20-03.03.38:916][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6]
+[2025.06.20-03.03.38:919][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6
+[2025.06.20-03.03.38:919][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/gjfx_stone_drop_6036484BE410DCB384BBD62B0DB94F3EA.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6.uasset'
+[2025.06.20-03.03.38:920][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:920][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog]
+[2025.06.20-03.03.38:920][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog.uasset" SILENT=true
+[2025.06.20-03.03.38:925][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog
+[2025.06.20-03.03.38:925][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Hand_To_Me_Dialog9C8DB371431156EF28DE7BB85FAAD2D5.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog.uasset'
+[2025.06.20-03.03.38:926][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:926][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog]
+[2025.06.20-03.03.38:926][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/JournalClosingDialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/JournalClosingDialog.uasset" SILENT=true
+[2025.06.20-03.03.38:941][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/JournalClosingDialog
+[2025.06.20-03.03.38:941][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/JournalClosingDialogEDA165EB4156CB548B133ABD1E3EE380.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/JournalClosingDialog.uasset'
+[2025.06.20-03.03.38:942][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:942][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog]
+[2025.06.20-03.03.38:942][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog.uasset" SILENT=true
+[2025.06.20-03.03.38:949][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog
+[2025.06.20-03.03.38:949][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Last_Item_Placed_DialogAB566CAD41D5065EA606CA9851C954FB.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog.uasset'
+[2025.06.20-03.03.38:951][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:951][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog]
+[2025.06.20-03.03.38:951][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog.uasset" SILENT=true
+[2025.06.20-03.03.38:954][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog
+[2025.06.20-03.03.38:954][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Pressing_Buttons_Dialog956031F04165406D46527DA575DF352E.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog.uasset'
+[2025.06.20-03.03.38:955][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.38:955][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog]
+[2025.06.20-03.03.38:955][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog.uasset" SILENT=true
+[2025.06.20-03.03.38:960][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog
+[2025.06.20-03.03.38:961][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Scales_Judge_DialogD792427A450C4129F0A802867F54F4B9.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog.uasset'
+[2025.06.20-03.03.38:962][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music] ([1] browsable assets)...
+[2025.06.20-03.03.38:962][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music]
+[2025.06.20-03.03.38:962][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music.uasset" SILENT=true
+[2025.06.20-03.03.39:043][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music
+[2025.06.20-03.03.39:043][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Inside_Ambience_MusicEFC294884737F27C0832EEBF5033BD11.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music.uasset'
+[2025.06.20-03.03.39:045][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen] ([1] browsable assets)...
+[2025.06.20-03.03.39:045][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen]
+[2025.06.20-03.03.39:045][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen.uasset" SILENT=true
+[2025.06.20-03.03.39:109][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen
+[2025.06.20-03.03.39:109][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Ending_Screen7E9EE486460FFCA65B3C138BCDE94877.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen.uasset'
+[2025.06.20-03.03.39:110][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen] ([1] browsable assets)...
+[2025.06.20-03.03.39:110][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen]
+[2025.06.20-03.03.39:110][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen.uasset" SILENT=true
+[2025.06.20-03.03.39:155][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen
+[2025.06.20-03.03.39:155][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Tomb_Service_Title_Screen9AE92A7348A545165FB1828E9641C864.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen.uasset'
+[2025.06.20-03.03.39:156][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TombFleeer/UI/W_Pause] ([2] browsable assets)...
+[2025.06.20-03.03.39:156][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/UI/W_Pause]
+[2025.06.20-03.03.39:156][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/UI/W_Pause" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/UI/W_Pause.uasset" SILENT=true
+[2025.06.20-03.03.39:167][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/UI/W_Pause
+[2025.06.20-03.03.39:168][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/W_Pause2B9791A44EC2A3B1CB4DAAA374E16DB9.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/UI/W_Pause.uasset'
+[2025.06.20-03.03.39:168][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog] ([1] browsable assets)...
+[2025.06.20-03.03.39:168][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog]
+[2025.06.20-03.03.39:168][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog" FILE="F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog.uasset" SILENT=true
+[2025.06.20-03.03.39:172][319]LogSavePackage: Moving output files for package: /Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog
+[2025.06.20-03.03.39:172][319]LogSavePackage: Moving 'F:/BooLFS/TimeToSlam/TombFleeer/Saved/Wrong_Lever_Dialog53922C6E4A8071C1BD4B37A2F019C634.tmp' to 'F:/BooLFS/TimeToSlam/TombFleeer/Content/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog.uasset'
+[2025.06.20-03.03.39:178][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 372.025 ms (total: 3.17 sec)
+[2025.06.20-03.03.39:248][319]LogStall: Shutdown...
+[2025.06.20-03.03.39:248][319]LogStall: Shutdown complete.
+[2025.06.20-03.03.39:317][319]LogSlate: Window 'TombFleeer - Unreal Editor' being destroyed
+[2025.06.20-03.03.40:505][319]LogContentValidation: Display: Starting to validate 18 assets
+[2025.06.20-03.03.40:505][319]LogContentValidation: Enabled validators:
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.20-03.03.40:505][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.20-03.03.40:505][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Control_Panel_Explanation_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Embalming_Profession_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_1 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/PageTurn/gjfx_page_turn_2 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/Push/gjfx_push_2 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_4 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_5 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Foley/StoneDrop/gjfx_stone_drop_6 Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Hand_To_Me_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/JournalClosingDialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Last_Item_Placed_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Pressing_Buttons_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Scales_Judge_Dialog Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Music/Tomb_Inside_Ambience_Music Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Music/Tomb_Service_Ending_Screen Validating asset
+[2025.06.20-03.03.40:506][319]AssetCheck: /Game/TombFleeer/Sounds/Music/Tomb_Service_Title_Screen Validating asset
+[2025.06.20-03.03.40:508][319]AssetCheck: /Game/TombFleeer/UI/W_Pause Validating asset
+[2025.06.20-03.03.40:508][319]AssetCheck: /Game/TombFleeer/Sounds/Dialog/Wrong_Lever_Dialog Validating asset
+[2025.06.20-03.03.40:510][319]Cmd: QUIT_EDITOR
+[2025.06.20-03.03.40:511][319]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.20-03.03.40:526][320]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.20-03.03.40:528][320]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.20-03.03.40:529][320]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.20-03.03.40:582][320]LogWorld: UWorld::CleanupWorld for Tomb, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:583][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:646][320]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.20-03.03.40:659][320]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.20-03.03.40:681][320]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:682][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:685][320]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:685][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:687][320]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:688][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:690][320]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:690][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:693][320]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:693][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:695][320]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:695][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:699][320]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:699][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:702][320]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:702][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:706][320]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:706][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:709][320]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:709][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:712][320]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:712][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:715][320]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:715][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:718][320]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:718][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:721][320]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:721][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:724][320]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:724][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:727][320]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:727][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:731][320]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:731][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:734][320]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.06.20-03.03.40:734][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.20-03.03.40:759][320]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.20-03.03.40:767][320]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.20-03.03.40:767][320]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.20-03.03.40:767][320]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.20-03.03.40:885][320]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.20-03.03.40:885][320]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.20-03.03.40:885][320]LogAudio: Display: Audio Device unregistered from world 'Tomb'.
+[2025.06.20-03.03.40:886][320]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.20-03.03.40:886][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.20-03.03.40:888][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.20-03.03.40:925][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.20-03.03.40:925][320]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.20-03.03.40:929][320]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.06.20-03.03.40:930][320]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.06.20-03.03.40:939][320]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.20-03.03.40:945][320]LogExit: Preparing to exit.
+[2025.06.20-03.03.41:031][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.06.20-03.03.41:065][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:067][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:080][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:082][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:083][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:085][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:086][320]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.41:086][320]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.20-03.03.42:422][320]LogEditorDataStorage: Deinitializing
+[2025.06.20-03.03.43:108][320]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.20-03.03.43:321][320]LogExit: Editor shut down
+[2025.06.20-03.03.43:359][320]LogExit: Transaction tracking system shut down
+[2025.06.20-03.03.44:656][320]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 1.
+[2025.06.20-03.03.44:723][320]LogExit: Object subsystem successfully closed.
+[2025.06.20-03.03.44:818][320]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.20-03.03.46:200][320]LogMemoryProfiler: Shutdown
+[2025.06.20-03.03.46:202][320]LogNetworkingProfiler: Shutdown
+[2025.06.20-03.03.46:202][320]LoadingProfiler: Shutdown
+[2025.06.20-03.03.46:204][320]LogTimingProfiler: Shutdown
+[2025.06.20-03.03.48:087][320]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.20-03.03.48:154][320]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.20-03.03.48:154][320]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B04D4955C-4941-10AA-6E44-E4B49E78B746%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=c2af43464b4a951f448262a454e0b551%7C01eb0753a23841b7ae0e54c0505ba069%7C5855d13e-fd11-4080-a44f-1ba0d4e13e56&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.20-03.03.48:899][320]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.20-03.03.48:904][320]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.20-03.03.48:905][320]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.20-03.03.48:910][320]RenderDocPlugin: plugin has been unloaded.
+[2025.06.20-03.03.48:927][320]LogXGEController: Cleaning working directory: C:/Users/noj15/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.06.20-03.03.48:963][320]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.20-03.03.48:963][320]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.20-03.03.48:967][320]LogPakFile: Destroying PakPlatformFile
+[2025.06.20-03.03.50:145][320]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.20-03.03.50:206][320]LogExit: Exiting.
+[2025.06.20-03.03.50:296][320]Log file closed, 06/19/25 23:03:50
